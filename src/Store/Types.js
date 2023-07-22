@@ -1,0 +1,14 @@
+export const modesTypes = {
+    ADD:"ADD",
+    EDIT:"EDIT",
+    NOT_DONE:"NOT_DONE",
+    CHANGE_MODE:"CHANGE_MODE"
+}
+
+export const todosTypes = {
+    ADD_NEW_TODO:"ADD_NEW_TODO",
+    CONVERT_TASK_COMPLETION:"CONVERT_TASK_COMPLETION",
+    DELETE_TASK:"DELETE_TASK",
+    SET_ACTIVE_TODO:"SET_ACTIVE_TODO",
+    EDIT_TODO:"EDIT_TODO"
+}   
